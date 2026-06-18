@@ -1,2 +1,6 @@
 HOLA CHRISSSSSS
+<<<<<<< HEAD
 ADIOS CRISSSSS
+=======
+adios
+>>>>>>> 250fb281b2246f11d2e09ff83648e7279a26520a
